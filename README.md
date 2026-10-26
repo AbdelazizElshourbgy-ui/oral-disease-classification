@@ -17,6 +17,7 @@ A deep learning system that classifies oral disease images into **six categories
 👉 **[Open the Streamlit app](https://oral-disease-classification.streamlit.app/)**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oral-disease-classification.streamlit.app/)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/abdelazizelshourbgy/oral-disease)
 
 ## 📸 Screenshots
 
@@ -173,7 +174,7 @@ Python · TensorFlow / Keras · scikit-learn · NumPy · Pandas · Matplotlib ·
 
 **Abdelaziz Elshourbgy**
 
-GitHub: [@AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui) · LinkedIn: [Abdelaziz Elshourbgy](https://www.linkedin.com/in/abdelaziz-elshourbgy-b126a83a2/)
+GitHub: [@AbdelazizElshourbgy-ui](https://github.com/AbdelazizElshourbgy-ui) · LinkedIn: [Abdelaziz Elshourbgy](https://www.linkedin.com/in/abdelaziz-elshourbgy-b126a83a2/) · Kaggle: [Abdelaziz Elshourbgy](https://www.kaggle.com/abdelazizelshourbgy)
 
 ## 📄 License
 
