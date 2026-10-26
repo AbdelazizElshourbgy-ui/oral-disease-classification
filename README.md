@@ -14,9 +14,9 @@ A deep learning system that classifies oral disease images into **six categories
 
 ## 🌐 Live Demo
 
-👉 **[Open the Streamlit app](PUT-YOUR-STREAMLIT-LINK-HERE)**
+👉 **[Open the Streamlit app](https://oral-disease-classification.streamlit.app/)**
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](PUT-YOUR-STREAMLIT-LINK-HERE)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oral-disease-classification.streamlit.app/)
 
 ## 📸 Screenshots
 
